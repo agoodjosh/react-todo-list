@@ -8,7 +8,7 @@ class Modal extends Component {
 
         this.state = {
             visible: false
-        }
+        };
         this.handleConfirm = this.handleConfirm.bind(this);
     }
 
